@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Govind Jindas More
 Software Engineer | Full-Stack Developer | MERN Stack | Java & DSA 🚀
 
 
